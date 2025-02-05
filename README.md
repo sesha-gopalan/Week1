@@ -1,3 +1,2 @@
-# Week1
-Solar Power Prediction using AI&ML (Linear Regression)
-Just the basics, Importing the required dateset and creating a basic analysis of the dataset using pandas dataframe and seaborn plot.
+# Week3
+After the graphs, the notebook focuses on feature selection, model training, and evaluation using Linear Regression for solar power prediction. It preprocesses data, splits it for training/testing, and evaluates performance with MAE, MSE, and R² scores. Results highlight key factors influencing power generation. The notebook suggests improvements like advanced models (Random Forest, Neural Networks) and hyperparameter tuning for better accuracy.
